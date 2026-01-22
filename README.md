@@ -1,6 +1,6 @@
 # Mantel Coding Challenge
 
-This is my solution for the coding challenge the parse the log file.
+This is my solution for the coding challenge to parse the log file.
 
 ## How To
 
